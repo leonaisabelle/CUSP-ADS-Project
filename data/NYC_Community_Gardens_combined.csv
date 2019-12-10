@@ -1,511 +1,606 @@
-,Address,Latitude,Longitude,NTA
-0,735 East 211th St,40.877499,-73.863489,Williamsbridge-Olinville
-1,1818 Bathgate Ave,40.845051,-73.897747,Claremont-Bathgate
-2,1017 Teller Ave,40.82815,-73.91435600000001,East Concourse-Concourse Village
-3,1328 Clay Ave,40.834934,-73.90889200000002,East Concourse-Concourse Village
-4,2044 Prospect Ave,40.845818,-73.887851,East Tremont
+,Address,Latitude,Longitude,NTA,ntaname
+0,735 East 211th St,40.877499,-73.863489,Williamsbridge-Olinville,
+1,1818 Bathgate Ave,40.845051,-73.897747,Claremont-Bathgate,
+2,1017 Teller Ave,40.82815,-73.91435600000001,East Concourse-Concourse Village,
+3,1328 Clay Ave,40.834934,-73.90889200000002,East Concourse-Concourse Village,
+4,2044 Prospect Ave,40.845818,-73.887851,East Tremont,
 5,"2242 Creston Ave<br />
-",40.856422,-73.90174300000002,Fordham South
-6,3634 Eastchester Rd,40.88176,-73.848453,Eastchester-Edenwald-Baychester
+",40.856422,-73.90174300000002,Fordham South,
+6,3634 Eastchester Rd,40.88176,-73.848453,Eastchester-Edenwald-Baychester,
 7,"1642 Castle Hill Ave<br />
-",40.838736,-73.85266800000002,Parkchester
+",40.838736,-73.85266800000002,Parkchester,
 8,"724 Courtlandt Ave<br />
-",40.820874,-73.917274,Melrose South-Mott Haven North
-9,927 Faile St,40.821493,-73.88963299999998,Hunts Point
+",40.820874,-73.917274,Melrose South-Mott Haven North,
+9,927 Faile St,40.821493,-73.88963299999998,Hunts Point,
 10,"1106 Fox St<br />
-",40.82672,-73.893957,Morrisania-Melrose
+",40.82672,-73.893957,Morrisania-Melrose,
 11,"1025 Anderson Avenue<br />
-",40.833119,-73.92726,Highbridge
+",40.833119,-73.92726,Highbridge,
 12,"378 Willis Ave<br />
-",40.812418,-73.920058,Mott Haven-Port Morris
-13,91 Aberdeen St,40.683346,-73.904931,Bushwick South
+",40.812418,-73.920058,Mott Haven-Port Morris,
+13,91 Aberdeen St,40.683346,-73.904931,Bushwick South,
 14,"34 Cooper St<br />
-",40.684294,-73.910715,Bushwick South
+",40.684294,-73.910715,Bushwick South,
 15,"1052 Decatur St<br />
-",40.685814,-73.910099,Bushwick South
+",40.685814,-73.910099,Bushwick South,
 16,"36 Aberdeen St<br />
-",40.681772,-73.906175,Bushwick South
-17,974 Madison St.,40.688854,-73.91882,Bushwick South
+",40.681772,-73.906175,Bushwick South,
+17,974 Madison St.,40.688854,-73.91882,Bushwick South,
 18,"95 Malcolm X Blvd<br />
-",40.690448,-73.93028100000002,Stuyvesant Heights
+",40.690448,-73.93028100000002,Stuyvesant Heights,
 19,"392 Hancock St<br />
-",40.683339,-73.940087,Stuyvesant Heights
-20,900 Broadway,40.697744,-73.93700600000003,Stuyvesant Heights
+",40.683339,-73.940087,Stuyvesant Heights,
+20,900 Broadway,40.697744,-73.93700600000003,Stuyvesant Heights,
 21,"163 Concord St<br />
-",40.69762,-73.98496899999998,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill
+",40.69762,-73.98496899999998,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,
 22,"3030 Fulton St<br />
-",40.680353,-73.88300100000002,East New York
+",40.680353,-73.88300100000002,East New York,
 23,"532 Hendrix St<br />
-",40.668532,-73.88849499999998,East New York
+",40.668532,-73.88849499999998,East New York,
 24,"534 Carroll St<br />
-",40.676242,-73.984786,Park Slope-Gowanus
+",40.676242,-73.984786,Park Slope-Gowanus,
 25,"322 Franklin Ave<br />
-",40.688085,-73.957368,Bedford
+",40.688085,-73.957368,Bedford,
 26,"327 Greene Ave<br />
-",40.687609,-73.958157,Bedford
+",40.687609,-73.958157,Bedford,
 27,"931 Bedford Ave<br />
-",40.692068,-73.955309,Bedford
-28,145 Hull St.,40.679665,-73.91171999999997,Ocean Hill
+",40.692068,-73.955309,Bedford,
+28,145 Hull St.,40.679665,-73.91171999999997,Ocean Hill,
 29,"87 Schenectady Ave<br />
-",40.676315,-73.93288000000003,Crown Heights North
-30,130 Liberty Ave.,40.672859,-73.905339,Brownsville
+",40.676315,-73.93288000000003,Crown Heights North,
+30,130 Liberty Ave.,40.672859,-73.905339,Brownsville,
 31,"134 Scholes St<br />
-",40.70845900000001,-73.944227,East Williamsburg
-32,88 Williams Ave.,40.674219,-73.900638,East New York (Pennsylvania Ave)
+",40.70845900000001,-73.944227,East Williamsburg,
+32,88 Williams Ave.,40.674219,-73.900638,East New York (Pennsylvania Ave),
 33,"105 East 103rd St<br />
-",40.79095,-73.94859100000002,East Harlem South
-34,171 E. 110th St.,40.79453400000001,-73.943176,East Harlem South
+",40.79095,-73.94859100000002,East Harlem South,
+34,171 E. 110th St.,40.79453400000001,-73.943176,East Harlem South,
 35,"176 East 111th St<br />
-",40.794874,-73.943143,East Harlem South
+",40.794874,-73.943143,East Harlem South,
 36,"415 East 117th St<br />
-",40.796383,-73.934178,East Harlem North
-37,431 E. 114th St.,40.794273,-73.934774,East Harlem North
+",40.796383,-73.934178,East Harlem North,
+37,431 E. 114th St.,40.794273,-73.934774,East Harlem North,
 38,"223 East 119th St<br />
-",40.799657,-73.937471,East Harlem North
-39,326 Pleasant Ave.,40.796076,-73.932037,East Harlem North
+",40.799657,-73.937471,East Harlem North,
+39,326 Pleasant Ave.,40.796076,-73.932037,East Harlem North,
 40,"437 East 114th St<br />
-",40.794155,-73.934501,East Harlem North
-41,421 E. 117th St.,40.796482,-73.933859,East Harlem North
-42,"Riverside Drive to Broadway, West 192nd Street to Dyckman Street",40.8608,-73.9325,Washington Heights North
-43,"Riverside Drive, Hudson River, W. 155 Street to Dyckman Street",40.85067314,-73.94526352,Washington Heights North
-44,499 W. 150th St. ,40.828799,-73.945644,Hamilton Heights
-45,564 West 149th St.,40.82852800000001,-73.948127,Hamilton Heights
+",40.794155,-73.934501,East Harlem North,
+41,421 E. 117th St.,40.796482,-73.933859,East Harlem North,
+42,"Riverside Drive to Broadway, West 192nd Street to Dyckman Street",40.8608,-73.9325,Washington Heights North,
+43,"Riverside Drive, Hudson River, W. 155 Street to Dyckman Street",40.85067314,-73.94526352,Washington Heights North,
+44,499 W. 150th St. ,40.828799,-73.945644,Hamilton Heights,
+45,564 West 149th St.,40.82852800000001,-73.948127,Hamilton Heights,
 46,"29 Dyckman St<br />
-",40.859082,-73.924185,park-cemetery-etc-Manhattan
-47,"3725 10th Ave, New York, NY 10034",40.859835,-73.92433170000002,park-cemetery-etc-Manhattan
+",40.859082,-73.924185,park-cemetery-etc-Manhattan,
+47,"3725 10th Ave, New York, NY 10034",40.859835,-73.92433170000002,park-cemetery-etc-Manhattan,
 48,"3703 10th Ave (Sherman Creek Park)<br />
-",40.858911,-73.922823,Marble Hill-Inwood
+",40.858911,-73.922823,Marble Hill-Inwood,
 49,"174 Suffolk St<br />
-",40.721016,-73.985003,Chinatown
-50,603 E. 11th St.,40.727477,-73.97899699999998,Lower East Side
+",40.721016,-73.985003,Chinatown,
+50,603 E. 11th St.,40.727477,-73.97899699999998,Lower East Side,
 51,"117-15 165th St<br />
-",40.684517,-73.78077900000002,Baisley Park
+",40.684517,-73.78077900000002,Baisley Park,
 52,"178-22 Linden Blvd<br />
-",40.69241,-73.76964699999998,St. Albans
-53,253-13 Pembroke Ave,40.770886,-73.73416,Douglas Manor-Douglaston-Little Neck
-54,30-03 Seagirt Blvd.,40.595587,-73.763345,Hammels-Arverne-Edgemere
-55,143 Westervelt Ave.,40.6441984,-74.08472420000003,West New Brighton-New Brighton-St. George
-56,626 East 11th Street,40.727123999999996,-73.978677,Lower East Side
-57,1651 Madison Avenue,40.796295,-73.94753299999999,East Harlem South
-58,172 E 117th Street,40.798976,-73.940376,East Harlem North
-59,422 East 11th Street,40.729079,-73.983327,East Village
-60,2124 Mapes Avenue,40.847215999999996,-73.885018,East Tremont
-61,626-27 East 5th Street,40.723433,-73.980995,Lower East Side
-62,274 15th Street,40.664706,-73.987554,Park Slope-Gowanus
-63,624-628 E 6th Street,40.724036,-73.98056899999999,Lower East Side
-64,78-92 Avenue B,40.724031,-73.98198599999999,East Village
-65,700 Decatur Street,40.683541,-73.915121,Ocean Hill
-66,809 Courtlandt Avenue,40.823065,-73.91645,Melrose South-Mott Haven North
-67,33-28 97th Street,40.756409000000005,-73.87122,North Corona
-68,703 East 9th Street,40.725211,-73.977776,Lower East Side
-69,924 Melrose Avenue,40.82513,-73.913329,Morrisania-Melrose
-70,495 Osborn Street,40.659528,-73.906203,Brownsville
-71,16-18 East 2nd Street,40.725347,-73.99132,East Village
-72,149 Tompkins Avenue,40.694344,-73.946088,Bedford
-73,293-295 East 3rd Street,40.721396,-73.979916,Lower East Side
-74,261-265 Columbia Street,40.683251,-74.003548,Carroll Gardens-Columbia Street-Red Hook
-75,199 Amboy Street,40.665633,-73.913605,Brownsville
-76,122 Hart Street,40.693378,-73.946915,Bedford
-77,1768 Bryant Avenue,40.83652,-73.885069,Crotona Park East
-78,2078 Anthony Avenue,40.852889000000005,-73.901885,Mount Hope
-79,213 Atkins Avenue,40.673772,-73.878795,East New York
-80,198 Forsyth Street,40.72252,-73.990728,Chinatown
-81,200 Avenue B,40.728307,-73.978864,East Village
-82,150-14 115th Drive,40.683535,-73.792211,Baisley Park
-83,144-29 Lakewood Avenue,40.689588,-73.80359399999999,South Jamaica
-84,61-73 Hamilton Avenue,40.682842,-74.006259,Carroll Gardens-Columbia Street-Red Hook
-85,2974-2980 Bainbridge Avenue,40.870996000000005,-73.884326,Bedford Park-Fordham North
-86,1836 Bathgate Avenue,40.84506,-73.89801800000001,Claremont-Bathgate
-87,100-00 Beach Channel Drive,40.586065999999995,-73.822624,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel
-88,404 Decatur Street,40.682165999999995,-73.927115,Crown Heights North
-89,2483 Belmont Avenue,40.856921,-73.884462,Belmont
-90,301-303 Berry Street,40.713449,-73.963827,North Side-South Side
-91,436 Van Siclen Avenue,40.669128,-73.889416,East New York
-92,22 East 119th Street,40.802263,-73.944274,East Harlem North
-93,237 E 3rd Street,40.722296,-73.98204799999999,Lower East Side
-94,494 East 141st Street,40.809829,-73.918667,Mott Haven-Port Morris
-95,397-401 Carlton Avenue,40.685731,-73.971356,Fort Greene
-96,65-73 Flatbush Avenue,40.687133,-73.979674,Fort Greene
-97,48 Lefferts Place,40.681526,-73.961901,Clinton Hill
-98,899-999 Bryant Avenue,40.819878,-73.886951,Hunts Point
-99,790 Blake Avenue,40.668623,-73.889471,East New York
-100,1771 Popham Avenue,40.851414,-73.918533,University Heights-Morris Heights
-101,175 W 166th Street,40.835784000000004,-73.928324,Highbridge
-102,450 St. Pauls Place,40.836403999999995,-73.90501400000001,Claremont-Bathgate
-103,1020 Anderson Avenue,40.832706,-73.926838,Highbridge
-104,1313-1311 Bristow Street,40.831035,-73.89477,Crotona Park East
-105,250 W 127th Street,40.810928000000004,-73.948938,Central Harlem North-Polo Grounds
-106,2111 Crotona Avenue,40.848471999999994,-73.888561,East Tremont
-107,1000 East Tremont Avenue,40.840755,-73.88170699999999,East Tremont
-108,1550 Crotona  Park East,40.836575,-73.89281700000001,Crotona Park East
-109,640-644 East 12th Street,40.727318,-73.977194,Lower East Side
-110,143-145 St. Nicholas Avenue,40.804435999999995,-73.95274599999999,Central Harlem South
-111,534 Carroll Street,40.676396000000004,-73.984555,Park Slope-Gowanus
-112,236-242 East 124th Street,40.802632,-73.935399,East Harlem North
-113,551 Cauldwell Avenue,40.814133,-73.910779,Melrose South-Mott Haven North
-114,305 Greene Avenue,40.687514,-73.958923,Bedford
-115,277-279 Bainbridge Street,40.681591,-73.925688,Crown Heights North
-116,1691-93 Madison Avenue,40.797308,-73.946792,East Harlem South
-117,21 West 118th Street,40.802366,-73.94641999999999,Central Harlem South
-118,127 Patchen Avenue,40.687548,-73.926979,Stuyvesant Heights
-119,16 Clarkson Street,40.729411999999996,-74.006148,West Village
-120,573-579 Glenmore Avenue,40.674214,-73.88914799999999,East New York
-121,1280 Teller Avenue,40.834051,-73.91055300000001,East Concourse-Concourse Village
-122,474 Classon Avenue,40.683943,-73.95903299999999,Clinton Hill
-123,1328-1332 Clay Avenue,40.835309,-73.908936,East Concourse-Concourse Village
-124,303 W 126th Street,40.810959000000004,-73.950928,Central Harlem North-Polo Grounds
-125,433-435 Cleveland Street,40.674162,-73.884339,East New York
-126,289 Grand Avenue,40.687639000000004,-73.962648,Clinton Hill
-127,1031-35 Bedford Avenue,40.688603,-73.954945,Bedford
-128,757 East 179th Street,40.845858,-73.888049,East Tremont
-129,436 West 48th Street,40.762716999999995,-73.991026,Clinton
-130,1420 College Avenue,40.838033,-73.91027,East Concourse-Concourse Village
-131,304-306 West 150th St,40.826069,-73.939785,Central Harlem North-Polo Grounds
-132,171 Stanton Street,40.72017,-73.984289,Lower East Side
-133,72-74 Grove Street,40.692238,-73.92181,Bushwick South
-134,606 Glenmore Avenue,40.674396,-73.887803,East New York
-135,214 Montauk Avenue,40.673887,-73.87789000000001,East New York
-136,2139 Daly Avenue,40.845582,-73.880943,East Tremont
-137,1475 Bushwick Avenue,40.683411,-73.907424,Bushwick South
-138,41 Cooper Street,40.684528,-73.91054100000001,Bushwick South
-139,34 Cooper Street,40.684311,-73.910725,Bushwick South
-140,52-02 102nd  Street,40.741788,-73.859801,Corona
-141,364-366 East 158th Street,40.822689000000004,-73.91614,Melrose South-Mott Haven North
-142,530 East 6th Street,40.72511,-73.98311899999999,East Village
-143,2242 Creston Avenue,40.856775,-73.90151800000001,Fordham South
-144,3003 Seagirt Boulevard.,40.595964,-73.763133,Hammels-Arverne-Edgemere
-145,11709 165th Street,40.684574,-73.78111,Baisley Park
-146,248-250 Bergen Street,40.684364,-73.984438,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill
-147,2385 Davidson Avenue,40.861379,-73.903254,Kingsbridge Heights
-148,311-313 E 8th Street,40.725296,-73.979821,Lower East Side
-149,1052 Decatur Street,40.685984999999995,-73.910265,Bushwick South
-150,941-943 Avenue St. John,40.815228999999995,-73.902569,Longwood
-151,306-310 East 118th Street,40.798107,-73.936371,East Harlem North
-152,520-522 East 13th Street,40.729306,-73.979885,East Village
-153,513 W 158th Street,40.833766,-73.942217,Washington Heights South
-154,223 - 231 E. 124 St.,40.802741999999995,-73.935612,East Harlem North
-155,93 Nagle Avenue,40.860412,-73.927936,Washington Heights North
-156,333-335 East 8th Street,40.725021999999996,-73.97917199999999,Lower East Side
-157,600 East 6th Street,40.72438,-73.98138,Lower East Side
-158,105 E 103rd Street,40.790817,-73.948859,East Harlem South
-159,401 E 143rd Street,40.812172,-73.92033599999999,Mott Haven-Port Morris
-160,171 E 4th Street,40.648198,-73.977358,Windsor Terrace
-161,429-433 East 117th Street,40.796357,-73.934119,East Harlem North
-162,339-341 Edgecomb Avenue,40.826462,-73.941811,Hamilton Heights
-163,836 Elton Avenue,40.8227,-73.912729,Morrisania-Melrose
-164,52 W 129th Street,40.809753,-73.94230999999999,Central Harlem North-Polo Grounds
-165,811-815 Eagle Avenue,40.820572999999996,-73.909101,Melrose South-Mott Haven North
-166,504 East 178th Street,40.847974,-73.896315,Claremont-Bathgate
-167,169 East 110th Street,40.794391,-73.9434,East Harlem South
-168,624-638 East 138th Street,40.806094,-73.915774,Mott Haven-Port Morris
-170,203-207 South 2nd Street,40.712385,-73.959633,North Side-South Side
-171,537 East 12th Street,40.728694,-73.980372,East Village
-172,121-123 West 137th Street,40.815768,-73.940759,Central Harlem North-Polo Grounds
-173,585 Elton Street,40.668638,-73.882081,East New York
-174,3030 Fulton Street,40.680440999999995,-73.883066,East New York
-175,532 Euclid Avenue,40.673943,-73.871567,East New York
-176,808 Herkimer Street,40.678383000000004,-73.926777,Crown Heights North
-177,793 Cleveland Street,40.665184,-73.881518,East New York
-178,156 East 111th Street,40.79527,-73.943572,East Harlem South
-179,431 East 114th Street,40.794189,-73.935108,East Harlem North
-180,419 East 158th Street,40.822053000000004,-73.913995,Melrose South-Mott Haven North
-181,181 Legion Street,40.664208,-73.917132,Brownsville
-182,1897-1905 Bergen Street,40.674381,-73.91832,Ocean Hill
-183,358-364 E 8th Street,40.724470000000004,-73.97791,Lower East Side
-184,397-401 Quincy Street,40.687717,-73.944139,Bedford
-185,48 East 1st Street,40.72384,-73.989772,East Village
-186,494 Bradford Street,40.666585,-73.890635,East New York (Pennsylvania Ave)
-187,338-340 Pearl Street,40.709257,-74.00198,Battery Park City-Lower Manhattan
-188,250-252 West 121st Street,40.807004,-73.951621,Central Harlem South
-189,2379-2385 Pitkin Avenue,40.673578000000006,-73.884567,East New York
-190,2592-2597 Bainbridge Avenue,40.863711,-73.892599,Bedford Park-Fordham North
-192,506-508 West 143rd Street,40.824306,-73.94944100000001,Hamilton Heights
-193,1060-1062 Cauldwell Avenue,40.826309,-73.905603,Morrisania-Melrose
-194,95 East 111th Street,40.796245,-73.94584300000001,East Harlem South
-195,499 West 150th Street,40.828638,-73.945842,Hamilton Heights
-196,978 Greene Avenue,40.690965999999996,-73.928771,Stuyvesant Heights
-197,1686 Weeks Avenue,40.844045,-73.907616,Mount Hope
-198,2156-2160 Prospect Avenue,40.848425,-73.885543,East Tremont
-199,392 Hancock Street,40.683685,-73.93996700000001,Stuyvesant Heights
-200,1685 Weeks Avenue,40.844009,-73.907641,Mount Hope
-201,302 West 116th Street,40.804522,-73.955636,Central Harlem South
-202,270-272 East 4th Street,40.722906,-73.981662,Lower East Side
-203,298-304 Snediker Avenue,40.667834,-73.900611,East New York (Pennsylvania Ave)
-204,109-13 156th Street,40.692461,-73.794877,South Jamaica
-205,549 Audubon Avenue,40.855954,-73.927051,Washington Heights North
-206,"105 Johnson Street (Tech), Brooklyn, NY 11201",40.694926,-73.98601500000001,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill
-207,328 New Lots Avenue,40.661178,-73.89455799999999,East New York (Pennsylvania Ave)
-208,144 Newport Street,40.659215,-73.909847,Brownsville
-209,555 Glenmore Avenue,40.674105,-73.88988,East New York
-210,555-557 Shepherd Avenue,40.670738,-73.879951,East New York
-211,28-32 Granite Street,40.682511,-73.907811,Bushwick South
-212,1062 Grant Avenue,40.830303,-73.916893,East Concourse-Concourse Village
-213,229 North 12th Street,40.719516,-73.952969,North Side-South Side
-214,947-953 Glenmore Avenue,40.676272,-73.875077,East New York
-215,222 5th Avenue,40.676008,-73.980745,Park Slope-Gowanus
-216,490 Greene Avenue,40.688328999999996,-73.951722,Bedford
-217,2 South Portland Avenue,40.689322,-73.975044,Fort Greene
-218,774 Halsey St.,40.684917999999996,-73.922702,Stuyvesant Heights
-219,322-324 Hancock Street,40.683344,-73.942924,Bedford
-220,155 Harding Park,40.807736,-73.857874,Soundview-Castle Hill-Clason Point-Harding Park
-221,4-8 E 129th Street,40.808821,-73.9401,Central Harlem North-Polo Grounds
-222,116 - 122 West 134th Street,40.813777,-73.942176,Central Harlem North-Polo Grounds
-224,169-171 Hart Street,40.693661999999996,-73.94457,Bedford
-225,104-108 Hart Street,40.693312,-73.947474,Bedford
-226,134-136 Scholes Street,40.708692,-73.944327,East Williamsburg
-227,532 Hendrix Street,40.668485,-73.88831400000001,East New York
-228,176 E 111th Street,40.795069,-73.943106,East Harlem South
-229,582 - 590 Glenmore Avenue,40.674263,-73.888701,East New York
-230,444 W 56th Street NY NY 10019,40.767790999999995,-73.987531,Clinton
-231,460 Washington Avenue,40.685321,-73.965249,Clinton Hill
-232,415-421 East 117th Street,40.79645,-73.934347,East Harlem North
-233,193 East 2nd Street,40.722289,-73.984094,East Village
-234,1656 Amsterdam Avenue,40.823414,-73.94895,Hamilton Heights
-235,750 Howard Avenue,40.663636,-73.91895699999999,Brownsville
-236,196 Hull Street,40.679912,-73.907566,Ocean Hill
-237,145 Hull Street,40.679465,-73.911615,Ocean Hill
-238,335 E 108th Street,40.791109000000006,-73.939592,East Harlem South
-239,207-209 Columbia Street,40.684958,-74.002726,Carroll Gardens-Columbia Street-Red Hook
-240,1919 Prospect Avenue,40.843546,-73.88975500000001,East Tremont
-241,Harlem River Drive/Dyckman Street,,,
-242,"800 Van Siclen Avenue, Brooklyn, NY 11207",40.660109999999996,-73.885387,East New York
-243,700 Cortelyou Road,40.638686,-73.971651,Kensington-Ocean Parkway
-244,215 Heyward Street,40.703624,-73.95314599999999,Williamsburg
-245,"21 Jumel Place, NY NY 10032",40.839304999999996,-73.936159,Washington Heights South
-246,99 Avenue P,40.60754,-73.984661,Bensonhurst East
-247,87-91 Schenectady Avenue,40.676312,-73.93318199999999,Crown Heights North
-248,625 Wales Avenue,40.814909,-73.906522,Melrose South-Mott Haven North
-249,890 Cauldwell Avenue,40.822474,-73.90719399999999,Morrisania-Melrose
-250,101 Park Avenue,40.696324,-73.97578,Fort Greene
-251,103 East 122nd Street,40.803013,-73.940152,East Harlem North
-252,1022-1024 Boston Road (north of E 165th Street),40.825996999999994,-73.906723,Morrisania-Melrose
-253,900 Tinton Avenue,40.821675,-73.90354599999999,Morrisania-Melrose
-254,327-329 Greene Avenue,40.687596,-73.958223,Bedford
-255,1507 Washington Avenue,40.837907,-73.903201,Claremont-Bathgate
-256,447 Jerome Street,40.670460999999996,-73.886004,East New York
-257,349 Schenck Avenue,40.672292,-73.888329,East New York
-258,155 Amboy Street,40.667016,-73.91396,Brownsville
-259,1161 Castleton Avenue,40.634234,-74.12114,West New Brighton-New Brighton-St. George
-260,"63-25 Main Street  Flushing, NY 11367",40.738139000000004,-73.82494399999999,Kew Gardens Hills
-261,"237 7th Avenue.  Brooklyn, NY 11215",40.669629,-73.979287,Park Slope-Gowanus
-262,10 Stuyvesant Avenue,40.696355,-73.93473,Stuyvesant Heights
-263,1175 Hoe Avenue,40.827899,-73.890901,Morrisania-Melrose
-264,219 W. 122nd Street,40.807407,-73.950588,Central Harlem South
-265,212 E. 3rd Street,40.722502,-73.982582,Lower East Side
-266,385-389 Kosciusko Street,40.692034,-73.93916999999999,Stuyvesant Heights
-267,2085-2093 Vyse Avenue.,40.843482,-73.88086,East Tremont
-268,223 E. 119th Street,40.799606,-73.937894,East Harlem North
-269,71 East 115th Street,40.798797,-73.944151,East Harlem North
-270,1036 Flushing Avenue,40.704359000000004,-73.929634,Bushwick North
-271,96-98 W. 163rd Street,40.832115,-73.929249,Highbridge
-272,76 W. 105th Street,40.798286,-73.96271899999999,Upper West Side
-273,632-650 E. 9th Street,40.725815000000004,-73.979248,Lower East Side
-274,511 LaGuardia Place,40.727809,-73.99915899999999,West Village
-275,1126 - 1140 Woodycrest Avenue,40.835464,-73.925809,Highbridge
-276,427 East 157th Street,40.821362,-73.91415400000001,Melrose South-Mott Haven North
-277,1885 University Avenue (behind Calvary Methodist Church),40.852536,-73.913333,University Heights-Morris Heights
-278,162 Lefferts Place,40.6806,-73.957474,Clinton Hill
-279,2015 Lexington Avenue,40.802809,-73.938552,East Harlem North
-280,316 Lincoln Road,40.661467,-73.952239,Prospect Lefferts Gardens-Wingate
-281,20 Lincoln Place,40.677378000000004,-73.97884499999999,Park Slope-Gowanus
-282,113 Linden Street,40.693162,-73.91964899999999,Bushwick South
-283,1675 Madison Avenue,40.796976,-73.947034,East Harlem South
-284,110 E Houston Street,40.723832,-73.991576,East Village
-285,221 East 3rd Street,40.722453,-73.982423,Lower East Side
-286,326 Pleasant Avenue,40.796043,-73.932422,East Harlem North
-287,213 E. 7th Street,40.724508,-73.979851,Lower East Side
-288,25 Rutgers Street,40.712962,-73.990026,Lower East Side
-289,"100 Hester Street  NY, NY 10002",40.716553000000005,-73.993092,Chinatown
-290,2545 Gunther Avenue,40.863735,-73.83606999999999,Allerton-Pelham Gardens
-291,227 Sterling Place,40.676094,-73.97038,Prospect Heights
-292,790 East New York Avenue,40.662447,-73.936382,Prospect Lefferts Gardens-Wingate
-293,103 West 108th Street,40.80069,-73.962238,Morningside Heights
-294,400 Empire Boulevard.,40.664007,-73.94922,Prospect Lefferts Gardens-Wingate
-295,894 Madison Street,40.687995,-73.92200600000001,Stuyvesant Heights
-296,1262-1264 Madison Street,40.694952,-73.913174,Bushwick North
-297,974 Madison Street,40.688959000000004,-73.919063,Bushwick South
-298,88-90 Madison Street,40.684145,-73.955485,Clinton Hill
-299,564 West 149th Street,40.828472,-73.947418,Hamilton Heights
-300,1574 Lexington Avenue,40.788624,-73.948933,East Harlem South
-301,1665-71 Park Avenue,40.800245000000004,-73.942524,East Harlem North
-302,111-26 Northern Boulevard.,40.757942,-73.858287,North Corona
-303,1397 Bedford Avenue,40.675251,-73.953404,Crown Heights North
-304,2539 Pitkin Avenue,40.674461,-73.878498,East New York
-305,1025 Manor Avenue,40.824911,-73.87545899999999,Soundview-Bruckner
-306,155-159 W. 133rd Street,40.813563,-73.943564,Central Harlem North-Polo Grounds
-307,"2770 Lafayette Avenue, Bronx, NY 10465",,,
-308,108-56 Union Hall Street,40.695304,-73.791536,South Jamaica
-309,130 Liberty Avenue,40.673066999999996,-73.905437,Brownsville
-310,724 Courtlandt Avenue,40.820733000000004,-73.917663,Melrose South-Mott Haven North
-311,927 Faile Street,40.821521999999995,-73.88929300000001,Hunts Point
-312,194-196 East 3rd Street,40.722916999999995,-73.983563,East Village
-313,545 West 147th Street,40.827075,-73.947928,Hamilton Heights
-314,955 Columbus Avenue,40.799757,-73.962476,Morningside Heights
-315,1312 Bristow Street.,40.831037,-73.89474799999999,Crotona Park East
-316,455-457 W 162nd Street,40.835442,-73.93903900000001,Washington Heights South
-317,354 Stuyvesant Avenue.,40.682590999999995,-73.931996,Crown Heights North
-318,565 Barbey Street,40.668571,-73.886439,East New York
-319,360-362 E. 151st Street,40.817871000000004,-73.918523,Melrose South-Mott Haven North
-320,1123 Saint Marks Avenue,40.674258,-73.932456,Crown Heights North
-321,953 Gates Avenue,40.688836,-73.92789,Stuyvesant Heights
-322,590-594 Schenck Avenue.,40.666227,-73.886797,East New York
-323,823 Rockaway Avenue,40.659785,-73.908199,Brownsville
-324,1665 Longfellow Avenue,40.834816,-73.885082,Crotona Park East
-325,599 Driggs Avenue,40.716007,-73.957527,North Side-South Side
-326,511-519 W. 52nd Street,40.766411,-73.991989,Clinton
-327,21-25 Olive Street,40.713243,-73.938822,East Williamsburg
-328,404-16 East 12th Street,40.729801,-73.98305699999999,East Village
-329,350-54 East 4th Street,40.721472,-73.978275,Lower East Side
-330,369-371 Barbey Street & 326-328 Jerome St,40.673773,-73.88776800000001,East New York
-331,275-277 West 122nd Street,40.807871999999996,-73.951693,Central Harlem South
-332,3050 Webster Avenue,40.870002,-73.878875,Norwood
-333,1301 8th Avenue,40.663251,-73.981289,Park Slope-Gowanus
-334,320 West 21st Street  NY NY 10011,40.744349,-74.000253,Hudson Yards-Chelsea-Flatiron-Union Square
-335,440 W. 53rd Street,40.765878,-73.988823,Clinton
-336,586 W. 177th Street,40.846542,-73.93520500000001,Washington Heights South
-337,3829 Avenue K,40.625662,-73.938265,Flatlands
-338,58-01 136th Street,40.745526,-73.829309,Queensboro Hill
-339,121 Saratoga Avenue,40.682458000000004,-73.917088,Ocean Hill
-340,2060 Lafayette Avenue,40.822665,-73.85336600000001,Soundview-Castle Hill-Clason Point-Harding Park
-341,93-06 63rd Drive,40.72814,-73.863582,Rego Park
-342,365-67 Wyona Street,40.669564,-73.892328,East New York (Pennsylvania Ave)
-343,1355 Herkimer Street,40.677415,-73.908734,Ocean Hill
-344,750 Concourse Village West,40.823174,-73.923326,East Concourse-Concourse Village
-345,4211 14th Avenue,40.637485999999996,-73.985955,Borough Park
-346,5601-23 16th Avenue  Brooklyn NY 11204,40.627029,-73.989672,Borough Park
-347,1023 New York Avenue,40.648215,-73.946374,East Flatbush-Farragut
-348,20 W. 112th Street,40.798511,-73.949251,Central Harlem South
-349,745 Jennings Street,40.831804,-73.89839599999999,Morrisania-Melrose
-350,"325 South 3rd Street Brooklyn, NY 11211",40.709647,-73.95465,North Side-South Side
-351,2599 7th Avenue.  NY NY 10039,40.824714,-73.936841,Central Harlem North-Polo Grounds
-352,34 W. 118th Street,40.80247,-73.94671600000001,Central Harlem South
-353,"4801 Avenue D  Brooklyn, NY 11234",40.642031,-73.931151,East Flatbush-Farragut
-354,1950 Sedgwick Avenue,40.856586,-73.916198,University Heights-Morris Heights
-355,2175 Washington Avenue,40.853423,-73.894463,Claremont-Bathgate
-356,"525 Lenox Road, Brooklyn NY 11203",40.654703999999995,-73.941089,East Flatbush-Farragut
-357,"134 West 122nd Street, NY, NY 10027",40.8063,-73.948013,Central Harlem South
-358,1580 Dean Street,40.676094,-73.935688,Crown Heights North
-359,2641 Grand Concourse,40.865593,-73.894758,Bedford Park-Fordham North
-360,7000 21st Avenue,40.612272999999995,-73.986713,Bensonhurst West
-361,18 Marlborough Road,40.64971,-73.96604599999999,Flatbush
-362,108 Montrose Avenue,40.707104,-73.945475,East Williamsburg
-363,133 E. 53rd Street,40.657131,-73.92801800000001,Rugby-Remsen Village
-364,27 Huntington Street Brooklyn. NY 11231,40.677564000000004,-74.005166,Carroll Gardens-Columbia Street-Red Hook
-365,2310 Glenwood  Rd.,40.633232,-73.954655,Flatbush
-366,219 First Street,40.675628,-73.98563399999999,Park Slope-Gowanus
-367,"1930 Andrews Avenue, Bronx NY 10453",40.854701,-73.913197,University Heights-Morris Heights
-368,2707 Albemarle Road,40.648044,-73.951891,Erasmus
-369,500 West 160th Street,40.834899,-73.941085,Washington Heights South
-370,530 Stanley Avenue,40.657212,-73.888852,East New York
-371,155-02 108th Avenue,40.694119,-73.797003,South Jamaica
-372,79-15 Penelope Avenue,40.719071,-73.875437,Middle Village
-373,676-696 Glenmore Avenue,40.674778,-73.885228,East New York
-374,520 West 45th Street  NY  NY 10036,40.762060999999996,-73.995307,Clinton
-375,522 Bradford Street,40.666063,-73.89050300000001,East New York (Pennsylvania Ave)
-376,2242-62 Bedford Avenue,40.649347,-73.955793,Erasmus
-377,51 St. Edwards Street,40.695633,-73.978215,Fort Greene
-378,372 Schermerhorn Street,40.686419,-73.979444,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill
-379,203 W. 120th Street   NY NY 10027,40.80598,-73.951098,Central Harlem South
-380,62 Park Place,40.678983,-73.976497,Park Slope-Gowanus
-381,87-41 Parsons Boulevard.,40.708898,-73.803938,Briarwood-Jamaica Hills
-382,58-74 57th Street,40.718934999999995,-73.91220799999999,Maspeth
-383,"80 Underhill Avenue  Broolyn, NY   11328",40.678297,-73.965541,Prospect Heights
-384,"230 East 183rd Street, Bronx NY 10458",40.857067,-73.89893599999999,Fordham South
-385,130-01 Rockaway Boulevard.,40.674991,-73.808371,South Ozone Park
-386,4862 Broadway,40.866706,-73.923948,Marble Hill-Inwood
-387,645 Main Street,40.763894,-73.947916,Lenox Hill-Roosevelt Island
-388,112 Schermerhorn Street,40.690145,-73.989132,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill
-389,541-545 E. 139th Street,40.807883000000004,-73.917885,Mott Haven-Port Morris
-390,992 Sutter Avenue,40.671292,-73.882217,East New York
-391,869 Eagle Avenue,40.822057,-73.90848100000001,Melrose South-Mott Haven North
-392,218-220 E. 119th Street,40.799617,-73.937963,East Harlem North
-393,1101-1105 Fox Street,40.826640000000005,-73.893877,Morrisania-Melrose
-394,314-318 East 4th Street,40.722038,-73.97961,Lower East Side
-395,511 E. 149th Street & 511 E. 150th Street,40.81478,-73.914459,Melrose South-Mott Haven North
-396,49 Patchen Avenue,40.690708,-73.927603,Stuyvesant Heights
-397,50-52 East 117th Street,40.800487,-73.943961,East Harlem North
-398,236-238 East 2nd Street,40.72149,-73.98216,Lower East Side
-399,1237-1241 Broadway,40.691653,-73.925825,Bushwick South
-400,664 East 105th Street,40.649609000000005,-73.897009,Canarsie
-401,337 Van Siclen Avenue,40.671728,-73.890057,East New York
-402,633 Powell Street,40.658459,-73.901057,Brownsville
-403,276-278 Powers Street,40.712955,-73.93972099999999,East Williamsburg
-404,1711 Park Place,40.671827,-73.920811,Ocean Hill
-405,94 - 110 Walton St.,40.702631,-73.948631,Bedford
-406,43-69 Malta Street,40.659475,-73.89560300000001,East New York (Pennsylvania Ave)
-407,252-256 St. Marks Avenue,40.678319,-73.967513,Prospect Heights
-408,1659 Madison Avenue,40.796473999999996,-73.9474,East Harlem South
-409,379 East 159th Street,40.823085999999996,-73.914947,Morrisania-Melrose
-410,1652-1654 St. John's Place,40.670152,-73.923242,Crown Heights North
-411,604 Marcy Avenue,40.693796,-73.94890500000001,Bedford
-412,558 Columbia Street,40.672562,-74.00869200000001,Carroll Gardens-Columbia Street-Red Hook
-413,209 Avenue B,40.728590000000004,-73.978637,Lower East Side
-414,65-67 W. 128th Street,40.809144,-73.942758,Central Harlem North-Polo Grounds
-415,1086 East 180th Street,40.842203999999995,-73.876529,East Tremont
-416,1272-1280 Shakespeare Avenue,40.839017,-73.922729,Highbridge
-417,2601-2603 Tilden Avenue.,40.646757,-73.952588,Erasmus
-418,237 E. 7th Street,40.723877,-73.97835,Lower East Side
-419,2110 Mermaid Avenue,40.576242,-73.988189,Seagate-Coney Island
-420,869 E 164th Street,40.82331,-73.899259,Longwood
-422,9-11 Rochester Avenue,40.678834,-73.927378,Crown Heights North
-423,293-297 East 4th Street,40.722464,-73.98056899999999,Lower East Side
-424,2917-2923 West 20th Street,40.575996999999994,-73.986807,Seagate-Coney Island
-425,522 West 146th Street,40.826254,-73.947965,Hamilton Heights
-426,673 Sheffield Avenue,40.660557,-73.893175,East New York (Pennsylvania Ave)
-427,1340 Sheridan Avenue,40.837275,-73.913574,East Concourse-Concourse Village
-428,953-955 Sherman Avenue,40.828252,-73.91911,East Concourse-Concourse Village
-429,323-325 Monroe Street,40.686076,-73.94538100000001,Bedford
-430,2084-90 Pacific Street,40.675795,-73.915903,Ocean Hill
-431,1688-1696 Bergen Street,40.674828999999995,-73.926867,Crown Heights North
-432,701 St. Ann's Avenue,40.81825,-73.91103000000001,Melrose South-Mott Haven North
-433,230A Spencer Street,40.691602,-73.954593,Bedford
-434,666-68 St. Ann's Avenue,40.817078,-73.91149399999999,Melrose South-Mott Haven North
-435,476-484 New Jersey Avenue,40.667535,-73.893737,East New York (Pennsylvania Ave)
-436,1642 St. John's Place,40.670169,-73.92352,Crown Heights North
-437,207 St. Marks Avenue,40.678709999999995,-73.96929,Prospect Heights
-438,213 Madison Street,40.684681,-73.95099599999999,Bedford
-439,461 Williams Avenue,40.664659,-73.897865,East New York (Pennsylvania Ave)
-440,174 Suffolk Street,40.720933,-73.98508299999999,Chinatown
-441,339-341 Edgecombe Avenue.,40.826462,-73.941811,Hamilton Heights
-442,281-283 Columbia Street,40.682578,-74.003869,Carroll Gardens-Columbia Street-Red Hook
-443,182 Sumpter Street,40.680246000000004,-73.917693,Stuyvesant Heights
-444,99-100 McKibben Street,40.70508,-73.944013,East Williamsburg
-445,2829 Surf Avenue,40.572905,-73.994741,Seagate-Coney Island
-446,90 W 164th Street,40.832559,-73.92830500000001,Highbridge
-447,1001 Anderson Avenue,40.832284,-73.927189,Highbridge
-448,931-933 Bedford Avenue,40.692060999999995,-73.95563100000001,Bedford
-451,15-17 Ten Eyck Street,40.709598,-73.95007199999999,North Side-South Side
-452,642-648 Blake Avenue,40.667777,-73.89516400000001,East New York (Pennsylvania Ave)
-453,271 Glenmore Avenue,40.672509000000005,-73.90063599999999,East New York (Pennsylvania Ave)
-454,1735 Walton Avenue,40.846592,-73.910938,Mount Hope
-455,603 East 11th Street,40.727311,-73.979074,Lower East Side
-456,267 Throop Ave.,40.694666,-73.943253,Stuyvesant Heights
-457,613 Hendrix Street,40.666544,-73.887795,East New York
-458,285 - 303 New Lots Avenue,40.660713,-73.895655,East New York (Pennsylvania Ave)
-459,97 Herkimer Street,40.679691,-73.950448,Crown Heights North
-460,53-55 West 128th Street,40.809031,-73.942488,Central Harlem North-Polo Grounds
-461,1917-23 Surf Avenue,40.575064000000005,-73.985961,Seagate-Coney Island
-462,2556 Pitkin Avenue.,40.674543,-73.877838,East New York
-463,198 Avenue B,40.728258000000004,-73.97890100000001,East Village
-464,49 Van Buren Street,40.690036,-73.943557,Bedford
-465,253 Throop Avenue,40.695178999999996,-73.943354,Stuyvesant Heights
-466,42-48 Vernon Avenue,40.694461,-73.95053399999999,Bedford
-467,200 Vernon Ave.,40.695196,-73.944122,Bedford
-469,74 E. 112th Street,40.796895,-73.945424,East Harlem South
-470,431 E. 156th Street,40.820531,-73.914448,Melrose South-Mott Haven North
-471,1093-1095 Dean Street,40.677263,-73.953835,Crown Heights North
-472,2780 Reservoir Avenue,40.870293,-73.898309,Van Cortlandt Village
-473,460-464 E. 136th Street,40.807068,-73.92209799999999,Mott Haven-Port Morris
-474,623 Warren Street,40.680820000000004,-73.97940200000001,Park Slope-Gowanus
-475,2008 Gildersleeve Avenue,40.809962,-73.85070999999999,Soundview-Castle Hill-Clason Point-Harding Park
-476,681 Halsey Street,40.684676,-73.924963,Stuyvesant Heights
-477,1036-53 Amsterdam Avenue,40.803674,-73.96336600000001,Morningside Heights
-478,34 West 131st Street,40.81071,-73.940702,Central Harlem North-Polo Grounds
-479,108-114 W. 132nd Street,40.812453999999995,-73.942882,Central Harlem North-Polo Grounds
-480,814 West 181st Street,40.851073,-73.93889399999999,Washington Heights South
-481,55-57 West 87th Street,40.786617,-73.97035600000001,Upper West Side
-482,1233 Pacific Street,40.677792,-73.95186600000001,Crown Heights North
-483,143 Westervelt Avenue,40.644391999999996,-74.084861,West New Brighton-New Brighton-St. George
-484,321-325 West 126th Street,40.811116,-73.9513,Central Harlem North-Polo Grounds
-485,146 Woodbine Street,40.692534,-73.916722,Bushwick South
-486,949 Woodycrest Avenue,40.83116,-73.929149,Highbridge
+",40.69241,-73.76964699999998,St. Albans,
+53,253-13 Pembroke Ave,40.770886,-73.73416,Douglas Manor-Douglaston-Little Neck,
+54,30-03 Seagirt Blvd.,40.595587,-73.763345,Hammels-Arverne-Edgemere,
+55,143 Westervelt Ave.,40.6441984,-74.08472420000003,West New Brighton-New Brighton-St. George,
+56,626 East 11th Street,40.727123999999996,-73.978677,Lower East Side,
+57,1651 Madison Avenue,40.796295,-73.94753299999999,East Harlem South,
+58,172 E 117th Street,40.798976,-73.940376,East Harlem North,
+59,422 East 11th Street,40.729079,-73.983327,East Village,
+60,2124 Mapes Avenue,40.847215999999996,-73.885018,East Tremont,
+61,626-27 East 5th Street,40.723433,-73.980995,Lower East Side,
+62,274 15th Street,40.664706,-73.987554,Park Slope-Gowanus,
+63,624-628 E 6th Street,40.724036,-73.98056899999999,Lower East Side,
+64,78-92 Avenue B,40.724031,-73.98198599999999,East Village,
+65,700 Decatur Street,40.683541,-73.915121,Ocean Hill,
+66,809 Courtlandt Avenue,40.823065,-73.91645,Melrose South-Mott Haven North,
+67,33-28 97th Street,40.756409000000005,-73.87122,North Corona,
+68,703 East 9th Street,40.725211,-73.977776,Lower East Side,
+69,924 Melrose Avenue,40.82513,-73.913329,Morrisania-Melrose,
+70,495 Osborn Street,40.659528,-73.906203,Brownsville,
+71,16-18 East 2nd Street,40.725347,-73.99132,East Village,
+72,149 Tompkins Avenue,40.694344,-73.946088,Bedford,
+73,293-295 East 3rd Street,40.721396,-73.979916,Lower East Side,
+74,261-265 Columbia Street,40.683251,-74.003548,Carroll Gardens-Columbia Street-Red Hook,
+75,199 Amboy Street,40.665633,-73.913605,Brownsville,
+76,122 Hart Street,40.693378,-73.946915,Bedford,
+77,1768 Bryant Avenue,40.83652,-73.885069,Crotona Park East,
+78,2078 Anthony Avenue,40.852889000000005,-73.901885,Mount Hope,
+79,213 Atkins Avenue,40.673772,-73.878795,East New York,
+80,198 Forsyth Street,40.72252,-73.990728,Chinatown,
+81,200 Avenue B,40.728307,-73.978864,East Village,
+82,150-14 115th Drive,40.683535,-73.792211,Baisley Park,
+83,144-29 Lakewood Avenue,40.689588,-73.80359399999999,South Jamaica,
+84,61-73 Hamilton Avenue,40.682842,-74.006259,Carroll Gardens-Columbia Street-Red Hook,
+85,2974-2980 Bainbridge Avenue,40.870996000000005,-73.884326,Bedford Park-Fordham North,
+86,1836 Bathgate Avenue,40.84506,-73.89801800000001,Claremont-Bathgate,
+87,100-00 Beach Channel Drive,40.586065999999995,-73.822624,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,
+88,404 Decatur Street,40.682165999999995,-73.927115,Crown Heights North,
+89,2483 Belmont Avenue,40.856921,-73.884462,Belmont,
+90,301-303 Berry Street,40.713449,-73.963827,North Side-South Side,
+91,436 Van Siclen Avenue,40.669128,-73.889416,East New York,
+92,22 East 119th Street,40.802263,-73.944274,East Harlem North,
+93,237 E 3rd Street,40.722296,-73.98204799999999,Lower East Side,
+94,494 East 141st Street,40.809829,-73.918667,Mott Haven-Port Morris,
+95,397-401 Carlton Avenue,40.685731,-73.971356,Fort Greene,
+96,65-73 Flatbush Avenue,40.687133,-73.979674,Fort Greene,
+97,48 Lefferts Place,40.681526,-73.961901,Clinton Hill,
+98,899-999 Bryant Avenue,40.819878,-73.886951,Hunts Point,
+99,790 Blake Avenue,40.668623,-73.889471,East New York,
+100,1771 Popham Avenue,40.851414,-73.918533,University Heights-Morris Heights,
+101,175 W 166th Street,40.835784000000004,-73.928324,Highbridge,
+102,450 St. Pauls Place,40.836403999999995,-73.90501400000001,Claremont-Bathgate,
+103,1020 Anderson Avenue,40.832706,-73.926838,Highbridge,
+104,1313-1311 Bristow Street,40.831035,-73.89477,Crotona Park East,
+105,250 W 127th Street,40.810928000000004,-73.948938,Central Harlem North-Polo Grounds,
+106,2111 Crotona Avenue,40.848471999999994,-73.888561,East Tremont,
+107,1000 East Tremont Avenue,40.840755,-73.88170699999999,East Tremont,
+108,1550 Crotona  Park East,40.836575,-73.89281700000001,Crotona Park East,
+109,640-644 East 12th Street,40.727318,-73.977194,Lower East Side,
+110,143-145 St. Nicholas Avenue,40.804435999999995,-73.95274599999999,Central Harlem South,
+111,534 Carroll Street,40.676396000000004,-73.984555,Park Slope-Gowanus,
+112,236-242 East 124th Street,40.802632,-73.935399,East Harlem North,
+113,551 Cauldwell Avenue,40.814133,-73.910779,Melrose South-Mott Haven North,
+114,305 Greene Avenue,40.687514,-73.958923,Bedford,
+115,277-279 Bainbridge Street,40.681591,-73.925688,Crown Heights North,
+116,1691-93 Madison Avenue,40.797308,-73.946792,East Harlem South,
+117,21 West 118th Street,40.802366,-73.94641999999999,Central Harlem South,
+118,127 Patchen Avenue,40.687548,-73.926979,Stuyvesant Heights,
+119,16 Clarkson Street,40.729411999999996,-74.006148,West Village,
+120,573-579 Glenmore Avenue,40.674214,-73.88914799999999,East New York,
+121,1280 Teller Avenue,40.834051,-73.91055300000001,East Concourse-Concourse Village,
+122,474 Classon Avenue,40.683943,-73.95903299999999,Clinton Hill,
+123,1328-1332 Clay Avenue,40.835309,-73.908936,East Concourse-Concourse Village,
+124,303 W 126th Street,40.810959000000004,-73.950928,Central Harlem North-Polo Grounds,
+125,433-435 Cleveland Street,40.674162,-73.884339,East New York,
+126,289 Grand Avenue,40.687639000000004,-73.962648,Clinton Hill,
+127,1031-35 Bedford Avenue,40.688603,-73.954945,Bedford,
+128,757 East 179th Street,40.845858,-73.888049,East Tremont,
+129,436 West 48th Street,40.762716999999995,-73.991026,Clinton,
+130,1420 College Avenue,40.838033,-73.91027,East Concourse-Concourse Village,
+131,304-306 West 150th St,40.826069,-73.939785,Central Harlem North-Polo Grounds,
+132,171 Stanton Street,40.72017,-73.984289,Lower East Side,
+133,72-74 Grove Street,40.692238,-73.92181,Bushwick South,
+134,606 Glenmore Avenue,40.674396,-73.887803,East New York,
+135,214 Montauk Avenue,40.673887,-73.87789000000001,East New York,
+136,2139 Daly Avenue,40.845582,-73.880943,East Tremont,
+137,1475 Bushwick Avenue,40.683411,-73.907424,Bushwick South,
+138,41 Cooper Street,40.684528,-73.91054100000001,Bushwick South,
+139,34 Cooper Street,40.684311,-73.910725,Bushwick South,
+140,52-02 102nd  Street,40.741788,-73.859801,Corona,
+141,364-366 East 158th Street,40.822689000000004,-73.91614,Melrose South-Mott Haven North,
+142,530 East 6th Street,40.72511,-73.98311899999999,East Village,
+143,2242 Creston Avenue,40.856775,-73.90151800000001,Fordham South,
+144,3003 Seagirt Boulevard.,40.595964,-73.763133,Hammels-Arverne-Edgemere,
+145,11709 165th Street,40.684574,-73.78111,Baisley Park,
+146,248-250 Bergen Street,40.684364,-73.984438,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,
+147,2385 Davidson Avenue,40.861379,-73.903254,Kingsbridge Heights,
+148,311-313 E 8th Street,40.725296,-73.979821,Lower East Side,
+149,1052 Decatur Street,40.685984999999995,-73.910265,Bushwick South,
+150,941-943 Avenue St. John,40.815228999999995,-73.902569,Longwood,
+151,306-310 East 118th Street,40.798107,-73.936371,East Harlem North,
+152,520-522 East 13th Street,40.729306,-73.979885,East Village,
+153,513 W 158th Street,40.833766,-73.942217,Washington Heights South,
+154,223 - 231 E. 124 St.,40.802741999999995,-73.935612,East Harlem North,
+155,93 Nagle Avenue,40.860412,-73.927936,Washington Heights North,
+156,333-335 East 8th Street,40.725021999999996,-73.97917199999999,Lower East Side,
+157,600 East 6th Street,40.72438,-73.98138,Lower East Side,
+158,105 E 103rd Street,40.790817,-73.948859,East Harlem South,
+159,401 E 143rd Street,40.812172,-73.92033599999999,Mott Haven-Port Morris,
+160,171 E 4th Street,40.648198,-73.977358,Windsor Terrace,
+161,429-433 East 117th Street,40.796357,-73.934119,East Harlem North,
+162,339-341 Edgecomb Avenue,40.826462,-73.941811,Hamilton Heights,
+163,836 Elton Avenue,40.8227,-73.912729,Morrisania-Melrose,
+164,52 W 129th Street,40.809753,-73.94230999999999,Central Harlem North-Polo Grounds,
+165,811-815 Eagle Avenue,40.820572999999996,-73.909101,Melrose South-Mott Haven North,
+166,504 East 178th Street,40.847974,-73.896315,Claremont-Bathgate,
+167,169 East 110th Street,40.794391,-73.9434,East Harlem South,
+168,624-638 East 138th Street,40.806094,-73.915774,Mott Haven-Port Morris,
+170,203-207 South 2nd Street,40.712385,-73.959633,North Side-South Side,
+171,537 East 12th Street,40.728694,-73.980372,East Village,
+172,121-123 West 137th Street,40.815768,-73.940759,Central Harlem North-Polo Grounds,
+173,585 Elton Street,40.668638,-73.882081,East New York,
+174,3030 Fulton Street,40.680440999999995,-73.883066,East New York,
+175,532 Euclid Avenue,40.673943,-73.871567,East New York,
+176,808 Herkimer Street,40.678383000000004,-73.926777,Crown Heights North,
+177,793 Cleveland Street,40.665184,-73.881518,East New York,
+178,156 East 111th Street,40.79527,-73.943572,East Harlem South,
+179,431 East 114th Street,40.794189,-73.935108,East Harlem North,
+180,419 East 158th Street,40.822053000000004,-73.913995,Melrose South-Mott Haven North,
+181,181 Legion Street,40.664208,-73.917132,Brownsville,
+182,1897-1905 Bergen Street,40.674381,-73.91832,Ocean Hill,
+183,358-364 E 8th Street,40.724470000000004,-73.97791,Lower East Side,
+184,397-401 Quincy Street,40.687717,-73.944139,Bedford,
+185,48 East 1st Street,40.72384,-73.989772,East Village,
+186,494 Bradford Street,40.666585,-73.890635,East New York (Pennsylvania Ave),
+187,338-340 Pearl Street,40.709257,-74.00198,Battery Park City-Lower Manhattan,
+188,250-252 West 121st Street,40.807004,-73.951621,Central Harlem South,
+189,2379-2385 Pitkin Avenue,40.673578000000006,-73.884567,East New York,
+190,2592-2597 Bainbridge Avenue,40.863711,-73.892599,Bedford Park-Fordham North,
+192,506-508 West 143rd Street,40.824306,-73.94944100000001,Hamilton Heights,
+193,1060-1062 Cauldwell Avenue,40.826309,-73.905603,Morrisania-Melrose,
+194,95 East 111th Street,40.796245,-73.94584300000001,East Harlem South,
+195,499 West 150th Street,40.828638,-73.945842,Hamilton Heights,
+196,978 Greene Avenue,40.690965999999996,-73.928771,Stuyvesant Heights,
+197,1686 Weeks Avenue,40.844045,-73.907616,Mount Hope,
+198,2156-2160 Prospect Avenue,40.848425,-73.885543,East Tremont,
+199,392 Hancock Street,40.683685,-73.93996700000001,Stuyvesant Heights,
+200,1685 Weeks Avenue,40.844009,-73.907641,Mount Hope,
+201,302 West 116th Street,40.804522,-73.955636,Central Harlem South,
+202,270-272 East 4th Street,40.722906,-73.981662,Lower East Side,
+203,298-304 Snediker Avenue,40.667834,-73.900611,East New York (Pennsylvania Ave),
+204,109-13 156th Street,40.692461,-73.794877,South Jamaica,
+205,549 Audubon Avenue,40.855954,-73.927051,Washington Heights North,
+206,"105 Johnson Street (Tech), Brooklyn, NY 11201",40.694926,-73.98601500000001,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,
+207,328 New Lots Avenue,40.661178,-73.89455799999999,East New York (Pennsylvania Ave),
+208,144 Newport Street,40.659215,-73.909847,Brownsville,
+209,555 Glenmore Avenue,40.674105,-73.88988,East New York,
+210,555-557 Shepherd Avenue,40.670738,-73.879951,East New York,
+211,28-32 Granite Street,40.682511,-73.907811,Bushwick South,
+212,1062 Grant Avenue,40.830303,-73.916893,East Concourse-Concourse Village,
+213,229 North 12th Street,40.719516,-73.952969,North Side-South Side,
+214,947-953 Glenmore Avenue,40.676272,-73.875077,East New York,
+215,222 5th Avenue,40.676008,-73.980745,Park Slope-Gowanus,
+216,490 Greene Avenue,40.688328999999996,-73.951722,Bedford,
+217,2 South Portland Avenue,40.689322,-73.975044,Fort Greene,
+218,774 Halsey St.,40.684917999999996,-73.922702,Stuyvesant Heights,
+219,322-324 Hancock Street,40.683344,-73.942924,Bedford,
+220,155 Harding Park,40.807736,-73.857874,Soundview-Castle Hill-Clason Point-Harding Park,
+221,4-8 E 129th Street,40.808821,-73.9401,Central Harlem North-Polo Grounds,
+222,116 - 122 West 134th Street,40.813777,-73.942176,Central Harlem North-Polo Grounds,
+224,169-171 Hart Street,40.693661999999996,-73.94457,Bedford,
+225,104-108 Hart Street,40.693312,-73.947474,Bedford,
+226,134-136 Scholes Street,40.708692,-73.944327,East Williamsburg,
+227,532 Hendrix Street,40.668485,-73.88831400000001,East New York,
+228,176 E 111th Street,40.795069,-73.943106,East Harlem South,
+229,582 - 590 Glenmore Avenue,40.674263,-73.888701,East New York,
+230,444 W 56th Street NY NY 10019,40.767790999999995,-73.987531,Clinton,
+231,460 Washington Avenue,40.685321,-73.965249,Clinton Hill,
+232,415-421 East 117th Street,40.79645,-73.934347,East Harlem North,
+233,193 East 2nd Street,40.722289,-73.984094,East Village,
+234,1656 Amsterdam Avenue,40.823414,-73.94895,Hamilton Heights,
+235,750 Howard Avenue,40.663636,-73.91895699999999,Brownsville,
+236,196 Hull Street,40.679912,-73.907566,Ocean Hill,
+237,145 Hull Street,40.679465,-73.911615,Ocean Hill,
+238,335 E 108th Street,40.791109000000006,-73.939592,East Harlem South,
+239,207-209 Columbia Street,40.684958,-74.002726,Carroll Gardens-Columbia Street-Red Hook,
+240,1919 Prospect Avenue,40.843546,-73.88975500000001,East Tremont,
+241,Harlem River Drive/Dyckman Street,,,,
+242,"800 Van Siclen Avenue, Brooklyn, NY 11207",40.660109999999996,-73.885387,East New York,
+243,700 Cortelyou Road,40.638686,-73.971651,Kensington-Ocean Parkway,
+244,215 Heyward Street,40.703624,-73.95314599999999,Williamsburg,
+245,"21 Jumel Place, NY NY 10032",40.839304999999996,-73.936159,Washington Heights South,
+246,99 Avenue P,40.60754,-73.984661,Bensonhurst East,
+247,87-91 Schenectady Avenue,40.676312,-73.93318199999999,Crown Heights North,
+248,625 Wales Avenue,40.814909,-73.906522,Melrose South-Mott Haven North,
+249,890 Cauldwell Avenue,40.822474,-73.90719399999999,Morrisania-Melrose,
+250,101 Park Avenue,40.696324,-73.97578,Fort Greene,
+251,103 East 122nd Street,40.803013,-73.940152,East Harlem North,
+252,1022-1024 Boston Road (north of E 165th Street),40.825996999999994,-73.906723,Morrisania-Melrose,
+253,900 Tinton Avenue,40.821675,-73.90354599999999,Morrisania-Melrose,
+254,327-329 Greene Avenue,40.687596,-73.958223,Bedford,
+255,1507 Washington Avenue,40.837907,-73.903201,Claremont-Bathgate,
+256,447 Jerome Street,40.670460999999996,-73.886004,East New York,
+257,349 Schenck Avenue,40.672292,-73.888329,East New York,
+258,155 Amboy Street,40.667016,-73.91396,Brownsville,
+259,1161 Castleton Avenue,40.634234,-74.12114,West New Brighton-New Brighton-St. George,
+260,"63-25 Main Street  Flushing, NY 11367",40.738139000000004,-73.82494399999999,Kew Gardens Hills,
+261,"237 7th Avenue.  Brooklyn, NY 11215",40.669629,-73.979287,Park Slope-Gowanus,
+262,10 Stuyvesant Avenue,40.696355,-73.93473,Stuyvesant Heights,
+263,1175 Hoe Avenue,40.827899,-73.890901,Morrisania-Melrose,
+264,219 W. 122nd Street,40.807407,-73.950588,Central Harlem South,
+265,212 E. 3rd Street,40.722502,-73.982582,Lower East Side,
+266,385-389 Kosciusko Street,40.692034,-73.93916999999999,Stuyvesant Heights,
+267,2085-2093 Vyse Avenue.,40.843482,-73.88086,East Tremont,
+268,223 E. 119th Street,40.799606,-73.937894,East Harlem North,
+269,71 East 115th Street,40.798797,-73.944151,East Harlem North,
+270,1036 Flushing Avenue,40.704359000000004,-73.929634,Bushwick North,
+271,96-98 W. 163rd Street,40.832115,-73.929249,Highbridge,
+272,76 W. 105th Street,40.798286,-73.96271899999999,Upper West Side,
+273,632-650 E. 9th Street,40.725815000000004,-73.979248,Lower East Side,
+274,511 LaGuardia Place,40.727809,-73.99915899999999,West Village,
+275,1126 - 1140 Woodycrest Avenue,40.835464,-73.925809,Highbridge,
+276,427 East 157th Street,40.821362,-73.91415400000001,Melrose South-Mott Haven North,
+277,1885 University Avenue (behind Calvary Methodist Church),40.852536,-73.913333,University Heights-Morris Heights,
+278,162 Lefferts Place,40.6806,-73.957474,Clinton Hill,
+279,2015 Lexington Avenue,40.802809,-73.938552,East Harlem North,
+280,316 Lincoln Road,40.661467,-73.952239,Prospect Lefferts Gardens-Wingate,
+281,20 Lincoln Place,40.677378000000004,-73.97884499999999,Park Slope-Gowanus,
+282,113 Linden Street,40.693162,-73.91964899999999,Bushwick South,
+283,1675 Madison Avenue,40.796976,-73.947034,East Harlem South,
+284,110 E Houston Street,40.723832,-73.991576,East Village,
+285,221 East 3rd Street,40.722453,-73.982423,Lower East Side,
+286,326 Pleasant Avenue,40.796043,-73.932422,East Harlem North,
+287,213 E. 7th Street,40.724508,-73.979851,Lower East Side,
+288,25 Rutgers Street,40.712962,-73.990026,Lower East Side,
+289,"100 Hester Street  NY, NY 10002",40.716553000000005,-73.993092,Chinatown,
+290,2545 Gunther Avenue,40.863735,-73.83606999999999,Allerton-Pelham Gardens,
+291,227 Sterling Place,40.676094,-73.97038,Prospect Heights,
+292,790 East New York Avenue,40.662447,-73.936382,Prospect Lefferts Gardens-Wingate,
+293,103 West 108th Street,40.80069,-73.962238,Morningside Heights,
+294,400 Empire Boulevard.,40.664007,-73.94922,Prospect Lefferts Gardens-Wingate,
+295,894 Madison Street,40.687995,-73.92200600000001,Stuyvesant Heights,
+296,1262-1264 Madison Street,40.694952,-73.913174,Bushwick North,
+297,974 Madison Street,40.688959000000004,-73.919063,Bushwick South,
+298,88-90 Madison Street,40.684145,-73.955485,Clinton Hill,
+299,564 West 149th Street,40.828472,-73.947418,Hamilton Heights,
+300,1574 Lexington Avenue,40.788624,-73.948933,East Harlem South,
+301,1665-71 Park Avenue,40.800245000000004,-73.942524,East Harlem North,
+302,111-26 Northern Boulevard.,40.757942,-73.858287,North Corona,
+303,1397 Bedford Avenue,40.675251,-73.953404,Crown Heights North,
+304,2539 Pitkin Avenue,40.674461,-73.878498,East New York,
+305,1025 Manor Avenue,40.824911,-73.87545899999999,Soundview-Bruckner,
+306,155-159 W. 133rd Street,40.813563,-73.943564,Central Harlem North-Polo Grounds,
+307,"2770 Lafayette Avenue, Bronx, NY 10465",,,,
+308,108-56 Union Hall Street,40.695304,-73.791536,South Jamaica,
+309,130 Liberty Avenue,40.673066999999996,-73.905437,Brownsville,
+310,724 Courtlandt Avenue,40.820733000000004,-73.917663,Melrose South-Mott Haven North,
+311,927 Faile Street,40.821521999999995,-73.88929300000001,Hunts Point,
+312,194-196 East 3rd Street,40.722916999999995,-73.983563,East Village,
+313,545 West 147th Street,40.827075,-73.947928,Hamilton Heights,
+314,955 Columbus Avenue,40.799757,-73.962476,Morningside Heights,
+315,1312 Bristow Street.,40.831037,-73.89474799999999,Crotona Park East,
+316,455-457 W 162nd Street,40.835442,-73.93903900000001,Washington Heights South,
+317,354 Stuyvesant Avenue.,40.682590999999995,-73.931996,Crown Heights North,
+318,565 Barbey Street,40.668571,-73.886439,East New York,
+319,360-362 E. 151st Street,40.817871000000004,-73.918523,Melrose South-Mott Haven North,
+320,1123 Saint Marks Avenue,40.674258,-73.932456,Crown Heights North,
+321,953 Gates Avenue,40.688836,-73.92789,Stuyvesant Heights,
+322,590-594 Schenck Avenue.,40.666227,-73.886797,East New York,
+323,823 Rockaway Avenue,40.659785,-73.908199,Brownsville,
+324,1665 Longfellow Avenue,40.834816,-73.885082,Crotona Park East,
+325,599 Driggs Avenue,40.716007,-73.957527,North Side-South Side,
+326,511-519 W. 52nd Street,40.766411,-73.991989,Clinton,
+327,21-25 Olive Street,40.713243,-73.938822,East Williamsburg,
+328,404-16 East 12th Street,40.729801,-73.98305699999999,East Village,
+329,350-54 East 4th Street,40.721472,-73.978275,Lower East Side,
+330,369-371 Barbey Street & 326-328 Jerome St,40.673773,-73.88776800000001,East New York,
+331,275-277 West 122nd Street,40.807871999999996,-73.951693,Central Harlem South,
+332,3050 Webster Avenue,40.870002,-73.878875,Norwood,
+333,1301 8th Avenue,40.663251,-73.981289,Park Slope-Gowanus,
+334,320 West 21st Street  NY NY 10011,40.744349,-74.000253,Hudson Yards-Chelsea-Flatiron-Union Square,
+335,440 W. 53rd Street,40.765878,-73.988823,Clinton,
+336,586 W. 177th Street,40.846542,-73.93520500000001,Washington Heights South,
+337,3829 Avenue K,40.625662,-73.938265,Flatlands,
+338,58-01 136th Street,40.745526,-73.829309,Queensboro Hill,
+339,121 Saratoga Avenue,40.682458000000004,-73.917088,Ocean Hill,
+340,2060 Lafayette Avenue,40.822665,-73.85336600000001,Soundview-Castle Hill-Clason Point-Harding Park,
+341,93-06 63rd Drive,40.72814,-73.863582,Rego Park,
+342,365-67 Wyona Street,40.669564,-73.892328,East New York (Pennsylvania Ave),
+343,1355 Herkimer Street,40.677415,-73.908734,Ocean Hill,
+344,750 Concourse Village West,40.823174,-73.923326,East Concourse-Concourse Village,
+345,4211 14th Avenue,40.637485999999996,-73.985955,Borough Park,
+346,5601-23 16th Avenue  Brooklyn NY 11204,40.627029,-73.989672,Borough Park,
+347,1023 New York Avenue,40.648215,-73.946374,East Flatbush-Farragut,
+348,20 W. 112th Street,40.798511,-73.949251,Central Harlem South,
+349,745 Jennings Street,40.831804,-73.89839599999999,Morrisania-Melrose,
+350,"325 South 3rd Street Brooklyn, NY 11211",40.709647,-73.95465,North Side-South Side,
+351,2599 7th Avenue.  NY NY 10039,40.824714,-73.936841,Central Harlem North-Polo Grounds,
+352,34 W. 118th Street,40.80247,-73.94671600000001,Central Harlem South,
+353,"4801 Avenue D  Brooklyn, NY 11234",40.642031,-73.931151,East Flatbush-Farragut,
+354,1950 Sedgwick Avenue,40.856586,-73.916198,University Heights-Morris Heights,
+355,2175 Washington Avenue,40.853423,-73.894463,Claremont-Bathgate,
+356,"525 Lenox Road, Brooklyn NY 11203",40.654703999999995,-73.941089,East Flatbush-Farragut,
+357,"134 West 122nd Street, NY, NY 10027",40.8063,-73.948013,Central Harlem South,
+358,1580 Dean Street,40.676094,-73.935688,Crown Heights North,
+359,2641 Grand Concourse,40.865593,-73.894758,Bedford Park-Fordham North,
+360,7000 21st Avenue,40.612272999999995,-73.986713,Bensonhurst West,
+361,18 Marlborough Road,40.64971,-73.96604599999999,Flatbush,
+362,108 Montrose Avenue,40.707104,-73.945475,East Williamsburg,
+363,133 E. 53rd Street,40.657131,-73.92801800000001,Rugby-Remsen Village,
+364,27 Huntington Street Brooklyn. NY 11231,40.677564000000004,-74.005166,Carroll Gardens-Columbia Street-Red Hook,
+365,2310 Glenwood  Rd.,40.633232,-73.954655,Flatbush,
+366,219 First Street,40.675628,-73.98563399999999,Park Slope-Gowanus,
+367,"1930 Andrews Avenue, Bronx NY 10453",40.854701,-73.913197,University Heights-Morris Heights,
+368,2707 Albemarle Road,40.648044,-73.951891,Erasmus,
+369,500 West 160th Street,40.834899,-73.941085,Washington Heights South,
+370,530 Stanley Avenue,40.657212,-73.888852,East New York,
+371,155-02 108th Avenue,40.694119,-73.797003,South Jamaica,
+372,79-15 Penelope Avenue,40.719071,-73.875437,Middle Village,
+373,676-696 Glenmore Avenue,40.674778,-73.885228,East New York,
+374,520 West 45th Street  NY  NY 10036,40.762060999999996,-73.995307,Clinton,
+375,522 Bradford Street,40.666063,-73.89050300000001,East New York (Pennsylvania Ave),
+376,2242-62 Bedford Avenue,40.649347,-73.955793,Erasmus,
+377,51 St. Edwards Street,40.695633,-73.978215,Fort Greene,
+378,372 Schermerhorn Street,40.686419,-73.979444,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,
+379,203 W. 120th Street   NY NY 10027,40.80598,-73.951098,Central Harlem South,
+380,62 Park Place,40.678983,-73.976497,Park Slope-Gowanus,
+381,87-41 Parsons Boulevard.,40.708898,-73.803938,Briarwood-Jamaica Hills,
+382,58-74 57th Street,40.718934999999995,-73.91220799999999,Maspeth,
+383,"80 Underhill Avenue  Broolyn, NY   11328",40.678297,-73.965541,Prospect Heights,
+384,"230 East 183rd Street, Bronx NY 10458",40.857067,-73.89893599999999,Fordham South,
+385,130-01 Rockaway Boulevard.,40.674991,-73.808371,South Ozone Park,
+386,4862 Broadway,40.866706,-73.923948,Marble Hill-Inwood,
+387,645 Main Street,40.763894,-73.947916,Lenox Hill-Roosevelt Island,
+388,112 Schermerhorn Street,40.690145,-73.989132,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,
+389,541-545 E. 139th Street,40.807883000000004,-73.917885,Mott Haven-Port Morris,
+390,992 Sutter Avenue,40.671292,-73.882217,East New York,
+391,869 Eagle Avenue,40.822057,-73.90848100000001,Melrose South-Mott Haven North,
+392,218-220 E. 119th Street,40.799617,-73.937963,East Harlem North,
+393,1101-1105 Fox Street,40.826640000000005,-73.893877,Morrisania-Melrose,
+394,314-318 East 4th Street,40.722038,-73.97961,Lower East Side,
+395,511 E. 149th Street & 511 E. 150th Street,40.81478,-73.914459,Melrose South-Mott Haven North,
+396,49 Patchen Avenue,40.690708,-73.927603,Stuyvesant Heights,
+397,50-52 East 117th Street,40.800487,-73.943961,East Harlem North,
+398,236-238 East 2nd Street,40.72149,-73.98216,Lower East Side,
+399,1237-1241 Broadway,40.691653,-73.925825,Bushwick South,
+400,664 East 105th Street,40.649609000000005,-73.897009,Canarsie,
+401,337 Van Siclen Avenue,40.671728,-73.890057,East New York,
+402,633 Powell Street,40.658459,-73.901057,Brownsville,
+403,276-278 Powers Street,40.712955,-73.93972099999999,East Williamsburg,
+404,1711 Park Place,40.671827,-73.920811,Ocean Hill,
+405,94 - 110 Walton St.,40.702631,-73.948631,Bedford,
+406,43-69 Malta Street,40.659475,-73.89560300000001,East New York (Pennsylvania Ave),
+407,252-256 St. Marks Avenue,40.678319,-73.967513,Prospect Heights,
+408,1659 Madison Avenue,40.796473999999996,-73.9474,East Harlem South,
+409,379 East 159th Street,40.823085999999996,-73.914947,Morrisania-Melrose,
+410,1652-1654 St. John's Place,40.670152,-73.923242,Crown Heights North,
+411,604 Marcy Avenue,40.693796,-73.94890500000001,Bedford,
+412,558 Columbia Street,40.672562,-74.00869200000001,Carroll Gardens-Columbia Street-Red Hook,
+413,209 Avenue B,40.728590000000004,-73.978637,Lower East Side,
+414,65-67 W. 128th Street,40.809144,-73.942758,Central Harlem North-Polo Grounds,
+415,1086 East 180th Street,40.842203999999995,-73.876529,East Tremont,
+416,1272-1280 Shakespeare Avenue,40.839017,-73.922729,Highbridge,
+417,2601-2603 Tilden Avenue.,40.646757,-73.952588,Erasmus,
+418,237 E. 7th Street,40.723877,-73.97835,Lower East Side,
+419,2110 Mermaid Avenue,40.576242,-73.988189,Seagate-Coney Island,
+420,869 E 164th Street,40.82331,-73.899259,Longwood,
+422,9-11 Rochester Avenue,40.678834,-73.927378,Crown Heights North,
+423,293-297 East 4th Street,40.722464,-73.98056899999999,Lower East Side,
+424,2917-2923 West 20th Street,40.575996999999994,-73.986807,Seagate-Coney Island,
+425,522 West 146th Street,40.826254,-73.947965,Hamilton Heights,
+426,673 Sheffield Avenue,40.660557,-73.893175,East New York (Pennsylvania Ave),
+427,1340 Sheridan Avenue,40.837275,-73.913574,East Concourse-Concourse Village,
+428,953-955 Sherman Avenue,40.828252,-73.91911,East Concourse-Concourse Village,
+429,323-325 Monroe Street,40.686076,-73.94538100000001,Bedford,
+430,2084-90 Pacific Street,40.675795,-73.915903,Ocean Hill,
+431,1688-1696 Bergen Street,40.674828999999995,-73.926867,Crown Heights North,
+432,701 St. Ann's Avenue,40.81825,-73.91103000000001,Melrose South-Mott Haven North,
+433,230A Spencer Street,40.691602,-73.954593,Bedford,
+434,666-68 St. Ann's Avenue,40.817078,-73.91149399999999,Melrose South-Mott Haven North,
+435,476-484 New Jersey Avenue,40.667535,-73.893737,East New York (Pennsylvania Ave),
+436,1642 St. John's Place,40.670169,-73.92352,Crown Heights North,
+437,207 St. Marks Avenue,40.678709999999995,-73.96929,Prospect Heights,
+438,213 Madison Street,40.684681,-73.95099599999999,Bedford,
+439,461 Williams Avenue,40.664659,-73.897865,East New York (Pennsylvania Ave),
+440,174 Suffolk Street,40.720933,-73.98508299999999,Chinatown,
+441,339-341 Edgecombe Avenue.,40.826462,-73.941811,Hamilton Heights,
+442,281-283 Columbia Street,40.682578,-74.003869,Carroll Gardens-Columbia Street-Red Hook,
+443,182 Sumpter Street,40.680246000000004,-73.917693,Stuyvesant Heights,
+444,99-100 McKibben Street,40.70508,-73.944013,East Williamsburg,
+445,2829 Surf Avenue,40.572905,-73.994741,Seagate-Coney Island,
+446,90 W 164th Street,40.832559,-73.92830500000001,Highbridge,
+447,1001 Anderson Avenue,40.832284,-73.927189,Highbridge,
+448,931-933 Bedford Avenue,40.692060999999995,-73.95563100000001,Bedford,
+451,15-17 Ten Eyck Street,40.709598,-73.95007199999999,North Side-South Side,
+452,642-648 Blake Avenue,40.667777,-73.89516400000001,East New York (Pennsylvania Ave),
+453,271 Glenmore Avenue,40.672509000000005,-73.90063599999999,East New York (Pennsylvania Ave),
+454,1735 Walton Avenue,40.846592,-73.910938,Mount Hope,
+455,603 East 11th Street,40.727311,-73.979074,Lower East Side,
+456,267 Throop Ave.,40.694666,-73.943253,Stuyvesant Heights,
+457,613 Hendrix Street,40.666544,-73.887795,East New York,
+458,285 - 303 New Lots Avenue,40.660713,-73.895655,East New York (Pennsylvania Ave),
+459,97 Herkimer Street,40.679691,-73.950448,Crown Heights North,
+460,53-55 West 128th Street,40.809031,-73.942488,Central Harlem North-Polo Grounds,
+461,1917-23 Surf Avenue,40.575064000000005,-73.985961,Seagate-Coney Island,
+462,2556 Pitkin Avenue.,40.674543,-73.877838,East New York,
+463,198 Avenue B,40.728258000000004,-73.97890100000001,East Village,
+464,49 Van Buren Street,40.690036,-73.943557,Bedford,
+465,253 Throop Avenue,40.695178999999996,-73.943354,Stuyvesant Heights,
+466,42-48 Vernon Avenue,40.694461,-73.95053399999999,Bedford,
+467,200 Vernon Ave.,40.695196,-73.944122,Bedford,
+469,74 E. 112th Street,40.796895,-73.945424,East Harlem South,
+470,431 E. 156th Street,40.820531,-73.914448,Melrose South-Mott Haven North,
+471,1093-1095 Dean Street,40.677263,-73.953835,Crown Heights North,
+472,2780 Reservoir Avenue,40.870293,-73.898309,Van Cortlandt Village,
+473,460-464 E. 136th Street,40.807068,-73.92209799999999,Mott Haven-Port Morris,
+474,623 Warren Street,40.680820000000004,-73.97940200000001,Park Slope-Gowanus,
+475,2008 Gildersleeve Avenue,40.809962,-73.85070999999999,Soundview-Castle Hill-Clason Point-Harding Park,
+476,681 Halsey Street,40.684676,-73.924963,Stuyvesant Heights,
+477,1036-53 Amsterdam Avenue,40.803674,-73.96336600000001,Morningside Heights,
+478,34 West 131st Street,40.81071,-73.940702,Central Harlem North-Polo Grounds,
+479,108-114 W. 132nd Street,40.812453999999995,-73.942882,Central Harlem North-Polo Grounds,
+480,814 West 181st Street,40.851073,-73.93889399999999,Washington Heights South,
+481,55-57 West 87th Street,40.786617,-73.97035600000001,Upper West Side,
+482,1233 Pacific Street,40.677792,-73.95186600000001,Crown Heights North,
+483,143 Westervelt Avenue,40.644391999999996,-74.084861,West New Brighton-New Brighton-St. George,
+484,321-325 West 126th Street,40.811116,-73.9513,Central Harlem North-Polo Grounds,
+485,146 Woodbine Street,40.692534,-73.916722,Bushwick South,
+486,949 Woodycrest Avenue,40.83116,-73.929149,Highbridge,
+487,1101 & 1105 Bergen Street,-73.949439375,40.67615225,,
+488,Carlisle Place,-73.863012,40.878598,,
+489,New Lots Avenue,-73.8992787,40.6589611,,
+491,Powell Street,-73.90319,40.666592,,
+492,64th Street,-74.0231939,40.6400567,,
+493,Aberdeen Street,-73.9055714,40.6824518,,
+494,Bayview Terrace,-74.1633299,40.5272282,,
+495,Teller Avenue,-73.912395,40.830936,,
+496,E 169th Street,-73.9126054,40.8351978,,
+497,Inwood Street,-73.806374,40.692166,,
+498,Bradhurst Avenue,-73.940595,40.826414,,
+499,West 153rd Street,-73.9496167,40.8326563,,
+500,Bridge St,-73.9849362,40.6982783,,
+501,Bridge Plaza Court,-73.9859658,40.6981761,,
+502,Flatbush Avenue,-73.9214387,40.608686,,
+503,2987 Frederick Douglass Boulevard,-73.9360196623286,40.8314603,,
+504,2599 Adam Clayton Powell Jr Boulevard,-73.937204,40.82404,,
+505,227th Street,-73.7529798,40.6613314,,
+506,144-51 144th Road,-73.777188,40.665329,,
+507,122nd Street,-73.95543,40.809429,,
+508,in East 239th Street,-73.8560538,40.9013942,,
+509,Crystal Street,-73.874666,40.676321,,
+510,Belmont Ave & Van Siclen Ave,-73.8830108,40.6569158,,
+511,East Tremont Avenue,-73.8780249,40.8399152,,
+512,Remington Street,-73.807044,40.690348,,
+513,Tinton Avenue,-73.9050078,40.8178792,,
+514,East 182nd Street,-73.889879,40.85207,,
+515,E 182nd Street,-73.889879,40.85207,,
+516,Marmion Avenue,-73.886843,40.843298,,
+517,148th Street,-73.820936,40.79685,,
+518,"1642 Glover Street, Bronx NY 10462",-73.852233,40.8386013333333,,
+519,Jamaica Avenue,-73.8997796,40.6770981,,
+520,511 & 516 West 182nd Street,-73.9314852173913,40.849221173913,,
+521,1835 Riverside Drive,-73.9282478,40.8656646,,
+522,160 Elton Avenue,-73.9118845,40.8237254,,
+523,138th & Grand Concourse,-73.9294953,40.813475,,
+524,47th Avenue.,-73.78423,40.752728,,
+525,"93-11 101st Street, Ozone Park, NY 11416",-73.8409955,40.684258,,
+526,E. 109th Street,-73.9448793,40.7941633,,
+527,East 12th Street,-73.9882889,40.7320224,,
+528,Brownell Street #11,-74.075709,40.625198375,,
+529,Poplar Street,-73.9929707,40.7011128,,
+530,Kessel Street,-73.84476,40.711706,,
+531,Randall Avenue,-73.8574183,40.817763,,
+532,2 East Mosholu Parkway,-73.8859998,40.9000278,,
+533,Shell Road,-73.9762628,40.5800542,,
+534,Park Avenue,-73.9780877,40.7513605,,
+535,West 124th Street and 5th Avenue,-73.9488961,40.8083265,,
+536,762-764 Herkimer Place/13-21 Hunterfly,-73.927007,40.67803,,Crown Heights North
+537,"Eastern Pkwy.,W/O Franklin",-73.954455,40.670787,,Crown Heights North
+538,Hunterfly Place and Atlantic Avenue,-73.927609,40.677592,,Crown Heights North
+539,1980 Lafayette Avenue/Stickball Avenue,-73.854449,40.821774,,Soundview-Castle Hill-Clason Point-Harding Park
+540,35th St. Bet. 35th & 36th Aves,-73.923622,40.756476,,Astoria
+541,93-95 Malcolm X Avenue,-73.929372,40.690746,,Stuyvesant Heights
+542,"125,123,121 Vernon Avenue",-73.943302,40.695557,,Stuyvesant Heights
+543,123 Malcolm X Avenue,-73.929518,40.689705,,Stuyvesant Heights
+544,"455,457-63 Ralph Avenue",-73.922721,40.688493,,Stuyvesant Heights
+545,320 96th Street NY NY 10128,-73.945095,40.78346,,East Harlem South
+546,530-2 Glenmore Avenue / 260 Van Siclen Avenue,-73.890031,40.673835,,East New York
+547,"444,448 Warwick Avenue",-73.885233,40.671056,,East New York
+548,79-85 Montauk Street,-73.877606,40.677795,,East New York
+549,88 Williams Avenuenue,-73.899361,40.674405,,East New York
+550,Fredrick Douglas Blvd. and W. 152ns St,-73.938062,40.827552,,Central Harlem North-Polo Grounds
+551,Riverside Park/138th Street,-73.946543,40.819283,,Central Harlem North-Polo Grounds
+552,"634-36, 640 Union Street",-73.982137,40.677088,,Park Slope-Gowanus
+553,West 91st and Riverside Drive,-73.975892,40.792994,,Upper West Side
+554,6-10 W. 104th Street/ 14-18 W. 104th Street,-73.960845,40.797168,,Upper West Side
+555,46 - 62 Goodwin St.,-73.922701,40.691471,,Bushwick South
+556,654 Lafayette Avenue/363-365 Clifton Place,-73.948458,40.690064,,Bedford
+557,851 Hornaday Avenue,-73.882,40.847173,,East Tremont
+558,958 New Hoe Avenue,-73.884427,40.839736,,East Tremont
+559,S/W/C E. 178th St. & LaFontaine Avenue.,-73.893082,40.847608,,East Tremont
+560,6500 16th Avenue & 65th Street,-73.995046,40.622048,,Bensonhurst West
+561,722 & 736 Home Street,-73.902057,40.828341,,Morrisania-Melrose
+562,"1261 Franklyn Avenue.  Bronx, NY 10456",-73.901958,40.831349,,Morrisania-Melrose
+563,JFK High School 99 Terrace View Avenue,-73.912807,40.877828,,Spuyten Duyvil-Kingsbridge
+564,178th Street & Linden Boulevard,-73.769557,40.693047,,St. Albans
+565,11818-11820 Merrick Boulevard.,-73.773577,40.686344,,St. Albans
+566,S/E/C 100th Street & McIntosh Street,-73.868975,40.76475,,East Elmhurst
+567,Rivington Street Crossover (in Sarah Roosevelt Park),-73.990985,40.721952,,Chinatown
+568,1315-31 Odgen Avenue,-73.924573,40.840577,,Highbridge
+569,"112,114 & 116 W. 123rd Street",-73.946559,40.8068,,Central Harlem South
+570,Lorimer and Bayard Streets,-73.949354,40.71923,,North Side-South Side
+571,Metropolitan Ave. and Orient Ave.,-73.940342,40.714999,,East Williamsburg
+572,"99th Street and Roosevelt Avenue.  Queens, NY 11368",-73.865229,40.749716,,North Corona
+573,S/E/C Brook Avenue & E. 141 Street,-73.917019,40.809838,,Mott Haven-Port Morris
+574,677 East 141st,-73.911616,40.807922,,Mott Haven-Port Morris
+575,Corner of Fulton & Somers Street,-73.912074,40.678629,,Ocean Hill
+576,"1701,1713,1715 Sterling Place",-73.921613,40.671443,,Ocean Hill
+577,342-353 Pleasant Avenue. /502 E. 119th Street,-73.930131,40.79687,,East Harlem North
+578,437-39 East 114th Street/448-450 East 115th Street,-73.933681,40.794689,,East Harlem North
+579,30th Avenue & Main Avenue & Astoria Boulevard,-73.932012,40.772221,,Old Astoria
+580,Fulton Avenue / 171 St / Crotona Park South,-73.899793,40.836847,,park-cemetery-etc-Bronx
+581,NWC of 153rd St & St. Nicholas,-73.946156,40.831061,,Hamilton Heights
+582,886 Reverend James A. Polite,-73.898847,40.825555,,Longwood
