@@ -1,0 +1,196 @@
+NTA,Borough,GardenCounts
+Bath Beach,Brooklyn,0.0
+Bay Ridge,Brooklyn,0.0
+Bedford,Brooklyn,23.0
+Bensonhurst East,Brooklyn,1.0
+Bensonhurst West,Brooklyn,2.0
+Borough Park,Brooklyn,2.0
+Brighton Beach,Brooklyn,0.0
+Brooklyn Heights-Cobble Hill,Brooklyn,0.0
+Brownsville,Brooklyn,10.0
+Bushwick North,Brooklyn,2.0
+Bushwick South,Brooklyn,16.0
+Canarsie,Brooklyn,1.0
+Carroll Gardens-Columbia Street-Red Hook,Brooklyn,6.0
+Clinton Hill,Brooklyn,6.0
+Crown Heights North,Brooklyn,19.0
+Crown Heights South,Brooklyn,0.0
+Cypress Hills-City Line,Brooklyn,0.0
+DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,5.0
+Dyker Heights,Brooklyn,0.0
+East Flatbush-Farragut,Brooklyn,3.0
+East New York,Brooklyn,36.0
+East New York (Pennsylvania Ave),Brooklyn,13.0
+East Williamsburg,Brooklyn,7.0
+Erasmus,Brooklyn,3.0
+Flatbush,Brooklyn,2.0
+Flatlands,Brooklyn,1.0
+Fort Greene,Brooklyn,5.0
+Georgetown-Marine Park-Bergen Beach-Mill Basin,Brooklyn,0.0
+Gravesend,Brooklyn,0.0
+Greenpoint,Brooklyn,0.0
+Homecrest,Brooklyn,0.0
+Kensington-Ocean Parkway,Brooklyn,1.0
+Madison,Brooklyn,0.0
+Midwood,Brooklyn,0.0
+North Side-South Side,Brooklyn,7.0
+Ocean Hill,Brooklyn,11.0
+Ocean Parkway South,Brooklyn,0.0
+Park Slope-Gowanus,Brooklyn,11.0
+park-cemetery-etc-Brooklyn,Brooklyn,0.0
+Prospect Heights,Brooklyn,4.0
+Prospect Lefferts Gardens-Wingate,Brooklyn,3.0
+Rugby-Remsen Village,Brooklyn,1.0
+Seagate-Coney Island,Brooklyn,4.0
+Sheepshead Bay-Gerritsen Beach-Manhattan Beach,Brooklyn,0.0
+Starrett City,Brooklyn,0.0
+Stuyvesant Heights,Brooklyn,20.0
+Sunset Park East,Brooklyn,0.0
+Sunset Park West,Brooklyn,0.0
+West Brighton,Brooklyn,0.0
+Williamsburg,Brooklyn,1.0
+Windsor Terrace,Brooklyn,1.0
+Battery Park City-Lower Manhattan,Manhattan,1.0
+Central Harlem North-Polo Grounds,Manhattan,16.0
+Central Harlem South,Manhattan,11.0
+Chinatown,Manhattan,5.0
+Clinton,Manhattan,5.0
+East Harlem North,Manhattan,24.0
+East Harlem South,Manhattan,16.0
+East Village,Manhattan,13.0
+Gramercy,Manhattan,0.0
+Hamilton Heights,Manhattan,11.0
+Hudson Yards-Chelsea-Flat Iron-Union Square,Manhattan,0.0
+Lenox Hill-Roosevelt Island,Manhattan,1.0
+Lincoln Square,Manhattan,0.0
+Lower East Side,Manhattan,26.0
+Manhattanville,Manhattan,0.0
+Marble Hill-Inwood,Manhattan,2.0
+Midtown-Midtown South,Manhattan,0.0
+Morningside Heights,Manhattan,3.0
+Murray Hill-Kips Bay,Manhattan,0.0
+park-cemetery-etc-Manhattan,Manhattan,2.0
+SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,0.0
+Stuyvesant Town-Cooper Village,Manhattan,0.0
+Turtle Bay-East Midtown,Manhattan,0.0
+Upper East Side-Carnegie Hill,Manhattan,0.0
+Upper West Side,Manhattan,4.0
+Washington Heights North,Manhattan,4.0
+Washington Heights South,Manhattan,6.0
+West Village,Manhattan,2.0
+Yorkville,Manhattan,0.0
+Airport,Queens,0.0
+Astoria,Queens,1.0
+Auburndale,Queens,0.0
+Baisley Park,Queens,3.0
+Bayside-Bayside Hills,Queens,0.0
+Bellerose,Queens,0.0
+Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,Queens,1.0
+Briarwood-Jamaica Hills,Queens,1.0
+Cambria Heights,Queens,0.0
+College Point,Queens,0.0
+Corona,Queens,1.0
+Douglas Manor-Douglaston-Little Neck,Queens,1.0
+East Elmhurst,Queens,1.0
+East Flushing,Queens,0.0
+Elmhurst,Queens,0.0
+Elmhurst-Maspeth,Queens,0.0
+Far Rockaway-Bayswater,Queens,0.0
+Flushing,Queens,0.0
+Forest Hills,Queens,0.0
+Fresh Meadows-Utopia,Queens,0.0
+Ft. Totten-Bay Terrace-Clearview,Queens,0.0
+Glen Oaks-Floral Park-New Hyde Park,Queens,0.0
+Glendale,Queens,0.0
+Hammels-Arverne-Edgemere,Queens,2.0
+Hollis,Queens,0.0
+Hunters Point-Sunnyside-West Maspeth,Queens,0.0
+Jackson Heights,Queens,0.0
+Jamaica,Queens,0.0
+Jamaica Estates-Holliswood,Queens,0.0
+Kew Gardens,Queens,0.0
+Kew Gardens Hills,Queens,1.0
+Laurelton,Queens,0.0
+Lindenwood-Howard Beach,Queens,0.0
+Maspeth,Queens,1.0
+Middle Village,Queens,1.0
+Murray Hill,Queens,0.0
+North Corona,Queens,3.0
+Oakland Gardens,Queens,0.0
+Old Astoria,Queens,1.0
+Ozone Park,Queens,0.0
+park-cemetery-etc-Queens,Queens,0.0
+Pomonok-Flushing Heights-Hillcrest,Queens,0.0
+Queens Village,Queens,0.0
+Queensboro Hill,Queens,1.0
+Queensbridge-Ravenswood-Long Island City,Queens,0.0
+Rego Park,Queens,1.0
+Richmond Hill,Queens,0.0
+Ridgewood,Queens,0.0
+Rosedale,Queens,0.0
+South Jamaica,Queens,4.0
+South Ozone Park,Queens,1.0
+Springfield Gardens North,Queens,0.0
+Springfield Gardens South-Brookville,Queens,0.0
+St. Albans,Queens,3.0
+Steinway,Queens,0.0
+Whitestone,Queens,0.0
+Woodhaven,Queens,0.0
+Woodside,Queens,0.0
+Annadale-Huguenot-Prince's Bay-Eltingville,Staten Island,0.0
+Arden Heights,Staten Island,0.0
+Charleston-Richmond Valley-Tottenville,Staten Island,0.0
+Grasmere-Arrochar-Ft. Wadsworth,Staten Island,0.0
+Great Kills,Staten Island,0.0
+Grymes Hill-Clifton-Fox Hills,Staten Island,0.0
+Mariner's Harbor-Arlington-Port Ivory-Graniteville,Staten Island,0.0
+New Brighton-Silver Lake,Staten Island,0.0
+New Dorp-Midland Beach,Staten Island,0.0
+New Springville-Bloomfield-Travis,Staten Island,0.0
+Oakwood-Oakwood Beach,Staten Island,0.0
+Old Town-Dongan Hills-South Beach,Staten Island,0.0
+park-cemetery-etc-Staten Island,Staten Island,0.0
+Port Richmond,Staten Island,0.0
+Rossville-Woodrow,Staten Island,0.0
+Stapleton-Rosebank,Staten Island,0.0
+Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,Staten Island,0.0
+West New Brighton-New Brighton-St. George,Staten Island,3.0
+Westerleigh,Staten Island,0.0
+Allerton-Pelham Gardens,The Bronx,1.0
+Bedford Park-Fordham North,The Bronx,3.0
+Belmont,The Bronx,1.0
+Bronxdale,The Bronx,0.0
+Claremont-Bathgate,The Bronx,6.0
+Co-op City,The Bronx,0.0
+Crotona Park East,The Bronx,5.0
+East Concourse-Concourse Village,The Bronx,9.0
+East Tremont,The Bronx,13.0
+Eastchester-Edenwald-Baychester,The Bronx,1.0
+Fordham South,The Bronx,3.0
+Highbridge,The Bronx,10.0
+Hunts Point,The Bronx,3.0
+Kingsbridge Heights,The Bronx,1.0
+Longwood,The Bronx,3.0
+Melrose South-Mott Haven North,The Bronx,15.0
+Morrisania-Melrose,The Bronx,13.0
+Mott Haven-Port Morris,The Bronx,8.0
+Mount Hope,The Bronx,4.0
+North Riverdale-Fieldston-Riverdale,The Bronx,0.0
+Norwood,The Bronx,1.0
+park-cemetery-etc-Bronx,The Bronx,1.0
+Parkchester,The Bronx,1.0
+Pelham Bay-Country Club-City Island,The Bronx,0.0
+Pelham Parkway,The Bronx,0.0
+Rikers Island,The Bronx,0.0
+Schuylerville-Throgs Neck-Edgewater Park,The Bronx,0.0
+Soundview-Bruckner,The Bronx,1.0
+Soundview-Castle Hill-Clason Point-Harding Park,The Bronx,4.0
+Spuyten Duyvil-Kingsbridge,The Bronx,1.0
+University Heights-Morris Heights,The Bronx,4.0
+Van Cortlandt Village,The Bronx,1.0
+Van Nest-Morris Park-Westchester Square,The Bronx,0.0
+West Concourse,The Bronx,0.0
+West Farms-Bronx River,The Bronx,0.0
+Westchester-Unionport,The Bronx,0.0
+Williamsbridge-Olinville,The Bronx,1.0
+Woodlawn-Wakefield,The Bronx,0.0
